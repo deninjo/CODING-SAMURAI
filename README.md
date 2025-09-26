@@ -3,3 +3,4 @@
 
  - [Project 2: Linear Regression on Simple Dataset](https://github.com/deninjo/CODING-SAMURAI/blob/master/Project%202%20Linear%20Regression%20on%20Simple%20Dataset/task-2.ipynb)
  - [Project 3: EDA on Titanic Dataset](https://deninjo.github.io/CODING-SAMURAI/)
+ - [Project 4: Titanic Survival Classification](https://github.com/deninjo/CODING-SAMURAI/blob/master/Project%204%20Titanic%20Dataset%20Classification/task-4.ipynb)
